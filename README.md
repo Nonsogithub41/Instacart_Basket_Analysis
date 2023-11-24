@@ -4,7 +4,7 @@
 Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. The objective of this project is to analyse customer behaviour and uncover patterns for growth.
 
 ## Data
-The dataset comprises of the following:
+**The dataset comprises of the following:**
 
 - Customers
 - orders
@@ -12,7 +12,7 @@ The dataset comprises of the following:
 - Products
 - Tools
   
-For this project, the following python libraries were used:
+**For this project, the following python libraries were used:**
 
 - Pandas - For data analysis
 - Seaborn- for visualization
